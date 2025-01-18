@@ -19,5 +19,11 @@
   font-weight: 700;
   font-size: 20px;
   margin-top: 20px;
-  text-decoration: none;
 }
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}  
